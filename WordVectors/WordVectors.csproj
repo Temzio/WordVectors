@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>0.2.1</Version>
+    <Title>WordWectors</Title>
+    <Authors>SeyedAli Hoseni</Authors>
+    <Company>Temzio</Company>
+  </PropertyGroup>
+
+</Project>

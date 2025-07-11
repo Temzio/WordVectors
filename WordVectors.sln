@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordVectors", "WordVectors\WordVectors.csproj", "{12151B47-E125-4DE7-83D6-B5128C156CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordVectors.GUITest", "WordVectors.GUITest\WordVectors.GUITest.csproj", "{5761E49E-26BF-4D94-A04E-7A72DE1C0C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12151B47-E125-4DE7-83D6-B5128C156CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12151B47-E125-4DE7-83D6-B5128C156CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12151B47-E125-4DE7-83D6-B5128C156CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12151B47-E125-4DE7-83D6-B5128C156CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5761E49E-26BF-4D94-A04E-7A72DE1C0C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5761E49E-26BF-4D94-A04E-7A72DE1C0C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5761E49E-26BF-4D94-A04E-7A72DE1C0C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5761E49E-26BF-4D94-A04E-7A72DE1C0C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C68D4A-9437-4DFE-B0F0-CDE4AF7D8BE9}
+	EndGlobalSection
+EndGlobal
