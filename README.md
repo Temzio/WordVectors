@@ -22,7 +22,7 @@ You can install the WordVectors library via NuGet Package Manager.
 ### NuGet Package Manager
 
 ```
-dotnet add package WordVectors --version 0.2.1
+dotnet add package WordVectors --version 0.2.2
 ```
 
 For more details, visit the [WordVectors NuGet page](https://www.nuget.org/packages/WordVectors/ "null").
