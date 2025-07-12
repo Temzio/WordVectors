@@ -40,7 +40,7 @@ For more details, visit the [WordVectors NuGet page](https://www.nuget.org/packa
 
 To get started, you need a pre-trained Word2Vec binary model file (e.g., `vectors.bin`). You can download pre-trained models from various sources, such as Google's Word2Vec project or Stanford's GloVe project (note: GloVe models might need conversion to Word2Vec binary format if not already in that format).
 
-```
+```cs
 using WordVectors;
 using System;
 using System.Collections.Generic;
